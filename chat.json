@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the 'Hello World' button to be fixed at the bottom of the user's screen regardless of scrolling, or should it appear at the bottom of the webpage content?\", \"option1\": \"Fixed at the bottom of the screen\", \"option2\": \"At the bottom of the webpage content\"}, {\"question 2\": \"Should the 'Hello World' button perform any specific action when clicked, such as displaying a message or redirecting to another page?\", \"option1\": \"Yes, it should perform a specific action\", \"option2\": \"No, it does not need to perform any action\"}], \"input_token_count\": 267, \"output_token_count\": 138, \"time_taken\": \"0:00:03.703696\"}",
+        "message_id": "guest23072024112543",
+        "timestamp": "23072024112548",
+        "component_file_name": "purple_hero_component_1721733067",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button that says hello world at the bottom of the page",
         "message_id": "guest23072024112543",
