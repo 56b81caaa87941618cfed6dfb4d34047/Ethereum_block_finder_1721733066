@@ -55,7 +55,13 @@ Vue.component("purple_feature_grid_component_1721733067", {
             </div>
             <div class="flex" id="feature-6-description-container"><p id="feature-6-description" class="flex-1 text-sm">Access our powerful APIs to build custom solutions tailored to your specific needs, enabling seamless integration into your existing systems.</p></div>
         </div>
-    </div>`,
+    </div>
+    <div class="flex justify-center mt-6">
+        <button class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded">
+            Hello World
+        </button>
+    </div>
+</div>`,
         data() {
             return {
                 expanded: false, 
