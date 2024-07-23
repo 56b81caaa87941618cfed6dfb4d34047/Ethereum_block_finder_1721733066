@@ -9,16 +9,16 @@
 Vue.component("dark_footer_component_1721733067", {
     template: `
 <div class="flex">
-    <div class="w-64 bg-gray-800 h-screen">
+    <div class="w-64 bg-purple-900 h-screen">
         <nav class="mt-5">
-            <a href="#" class="block py-2 px-4 text-white hover:bg-gray-700">Home</a>
-            <a href="#" class="block py-2 px-4 text-white hover:bg-gray-700">About</a>
-            <a href="#" class="block py-2 px-4 text-white hover:bg-gray-700">Contact</a>
+            <a href="#" class="block py-2 px-4 text-white hover:bg-purple-800 hover:text-purple-300 transition-colors duration-300">Home</a>
+            <a href="#" class="block py-2 px-4 text-white hover:bg-purple-800 hover:text-purple-300 transition-colors duration-300">About</a>
+            <a href="#" class="block py-2 px-4 text-white hover:bg-purple-800 hover:text-purple-300 transition-colors duration-300">Contact</a>
         </nav>
     </div>
     <div class="flex-1">
         <footer id="footer-section-container">
-            <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+            <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-black">
                 <!-- Blocks -->
                 <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
                     <!-- 1st block -->
