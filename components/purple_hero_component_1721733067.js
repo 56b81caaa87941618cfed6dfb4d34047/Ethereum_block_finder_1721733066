@@ -6,8 +6,17 @@
 
 Vue.component("purple_hero_component_1721733067", {
     template: `
-    <section id="hero-section-container">
-    <div id="section-container" class="relative max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+    <section id="hero-section-container" class="flex">
+        <div id="sidebar" class="w-64 bg-purple-800 text-white p-6">
+            <nav>
+                <ul>
+                    <li class="mb-4"><a href="#" class="hover:text-purple-300 transition-colors duration-300">Home</a></li>
+                    <li class="mb-4"><a href="#" class="hover:text-purple-300 transition-colors duration-300">About</a></li>
+                    <li class="mb-4"><a href="#" class="hover:text-purple-300 transition-colors duration-300">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    <div id="section-container" class="relative flex-1 max-w-6xl mx-auto px-4 sm:px-6 bg-white">
         <div id="hero-content-container" class="pt-32 pb-16 md:pt-52 md:pb-32">
             <!-- Hero content -->
             <div id="hero-content" class="max-w-3xl mx-auto text-center" style="position: relative; z-index: 1">
