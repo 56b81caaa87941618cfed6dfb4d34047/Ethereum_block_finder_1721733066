@@ -7,7 +7,7 @@
 Vue.component("purple_hero_component_1721733067", {
     template: `
     <section id="hero-section-container" class="flex">
-        <div id="sidebar" class="w-64 bg-purple-800 text-white p-6">
+        <div id="sidebar" class="w-64 bg-gradient-to-b from-purple-900 to-blue-900 text-white p-6">
             <nav>
                 <ul>
                     <li class="mb-4"><a href="#" class="hover:text-purple-300 transition-colors duration-300">Home</a></li>
