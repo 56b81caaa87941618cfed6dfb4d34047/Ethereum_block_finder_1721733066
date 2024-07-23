@@ -42,5 +42,9 @@
     {
         "level": 1,
         "task_description": "add a button that says hello world at the bottom of the page"
+    },
+    {
+        "level": 1,
+        "task_description": "add a button that says hello world at the bottom of the page"
     }
 ]
