@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be always visible or to become visible upon some interaction such as a button click or swipe?\", \"option1\": \"Always visible\", \"option2\": \"Visible upon interaction\"}, {\"question 2\": \"For the 'home', 'about', and 'contact' navlinks, do you have specific URLs or sections of the app these should link to, or should placeholders be used initially?\", \"option1\": \"Use specific URLs or sections\", \"option2\": \"Use placeholders initially\"}], \"input_token_count\": 446, \"output_token_count\": 118, \"time_taken\": \"0:00:04.847330\"}",
+        "message_id": "guest23072024112318",
+        "timestamp": "23072024112324",
+        "component_file_name": "purple_hero_component_1721733067",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it! Creating a sidebar with home, about and contact links.",
         "message_id": "guest23072024112318",
