@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says hello world at the bottom of the page",
+        "message_id": "guest23072024112543",
+        "timestamp": "23072024112544",
+        "component_file_name": "purple_hero_component_1721733067",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a \"hello world\" button at the bottom.",
         "message_id": "guest23072024112543",
