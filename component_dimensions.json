@@ -1,23 +1,4 @@
 {
-    "particle_component_1721733067.js": {
-        "component_name": "particle_component",
-        "id": "particle_component_1721733067",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 11,
-        "h": 3,
-        "x": 0,
-        "y": 16,
-        "i": "4",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true,
-        "name": ""
-    },
     "dark_footer_component_1721733067.js": {
         "component_name": "dark_footer_component",
         "id": "dark_footer_component_1721733067",
