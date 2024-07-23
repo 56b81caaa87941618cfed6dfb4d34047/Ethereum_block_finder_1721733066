@@ -38,5 +38,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the exchange, the user requested the AI to add a navbar with navigation links for \"home,\" \"about,\" and \"contact\" to their project. The AI acknowledged this request positively, agreeing to incorporate the navbar as specified. Following this, the AI sought further details about the project by asking the user to describe it more thoroughly. This indicates the AI's intention to better understand the user's requirements and possibly tailor the implementation of the navbar to fit the specific needs or context of the project.\nAI: Absolutely, I will add a button with the text \"hello world\".\nUser: add a button with the text hello world\nAI: Definitely, I'll add the sidebar with those navlinks.\nUser: add a sidebar with the navlinks home, about and contact\nThis is the user's current request of changes to be made: add a sidebar with the navlinks home, about and contact"
+    },
+    {
+        "level": 1,
+        "task_description": "add a button that says hello world at the bottom of the page"
     }
 ]
