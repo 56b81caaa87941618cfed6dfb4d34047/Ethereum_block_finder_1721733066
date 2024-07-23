@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with the text hey there",
+        "message_id": "guest23072024112125",
+        "timestamp": "23072024112126",
+        "component_file_name": "purple_feature_grid_component_1721733067",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"Centre of the main screen\", \"option2\": \"Bottom navigation bar\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a pop-up message with 'Hello World'\", \"option2\": \"Navigate to another screen with more details\"}], \"input_token_count\": 262, \"output_token_count\": 99, \"time_taken\": \"0:00:03.350559\"}",
         "message_id": "guest23072024111919",
