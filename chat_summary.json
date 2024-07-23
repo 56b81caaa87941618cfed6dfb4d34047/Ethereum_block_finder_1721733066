@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky header for easy navigation across different sections of the app\", \"checked\": true}, {\"feature\": \"Dynamic search bar in the navbar for quick block searches\", \"checked\": false}, {\"feature\": \"Night mode toggle switch in the navbar for user preference\", \"checked\": false}, {\"feature\": \"Notification bell icon in the navbar for real-time block updates\", \"checked\": true}, {\"feature\": \"User profile icon in the navbar for account settings and customization\", \"checked\": false}, {\"feature\": \"Breadcrumb navigation for enhanced user experience and easy back-tracking\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 125, \"time_taken\": \"0:00:03.772684\"}",
         "timestamp": "23072024111148",
         "message_id": "guest23072024111142"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "timestamp": "23072024111540",
+        "message_id": "guest23072024111539"
     }
 ]
