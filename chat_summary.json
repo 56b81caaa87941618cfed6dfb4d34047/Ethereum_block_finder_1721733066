@@ -36,5 +36,11 @@
         "content": "Definitely, I'll add the sidebar with those navlinks.",
         "timestamp": "23072024111540",
         "message_id": "guest23072024111539"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be always visible or should it appear/hide with a toggle button?\", \"option1\": \"Always visible\", \"option2\": \"Appear/hide with a toggle button\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side of the screen\", \"option2\": \"Right side of the screen\"}], \"input_token_count\": 266, \"output_token_count\": 98, \"time_taken\": \"0:00:05.092113\"}",
+        "timestamp": "23072024111545",
+        "message_id": "guest23072024111539"
     }
 ]
